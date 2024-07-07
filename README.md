@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizsajib&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizsajib" /> </p>
 
-- 🔭I'm currently working as a **Frontend Developer intern at ACI.**
+- 🔭I'm currently working as a **Frontend Developer intern at ACI LIMITED.**
 
 - 🌱 I’m currently learning **Vue , Nuxt.js**
 
