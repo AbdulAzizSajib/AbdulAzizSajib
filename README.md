@@ -14,7 +14,7 @@
 - 📫 How to reach me **abdulazizsajib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,mongodb,express,react,nodejs,next,vue,pinia,nuxt,vite,firebase,figma,git,github" />
   </a>
