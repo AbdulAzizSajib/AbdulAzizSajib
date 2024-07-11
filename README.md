@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,Mongodb,express,react,nodejs,next,vue,pinia,nuxt,vite,firebase,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,mongodb,express,react,nodejs,next,vue,pinia,nuxt,vite,firebase,figma,git,github" />
   </a>
 </p>
 
