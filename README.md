@@ -1,27 +1,53 @@
 <h1 align="center">Hi 👋, I'm Abdul Aziz Sajib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Frontend Developer | Vue & Nuxt at ACI Limited | MERN Stack Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizsajib&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizsajib" /> </p>
-
-- 🔭I'm currently working as a **Frontend Developer at ACI LIMITED.**
-
-- 🌱 I’m currently learning **Vue , Nuxt.js**
-
-- 👨‍💻 All of my projects are available at [https://sajibjsx.vercel.app](https://sajibjsx.vercel.app)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **abdulazizsajib@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,mongodb,express,react,nodejs,next,vue,pinia,nuxt,vite,firebase,figma,git,github" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulazizsajib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizsajib&show_icons=true&locale=en&layout=compact" alt="abdulazizsajib" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizsajib&show_icons=true&locale=en" alt="abdulazizsajib" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizsajib&" alt="abdulazizsajib" /></p>
+- 👨‍💻 I'm currently working as a **Frontend Developer at ACI Limited**
+- 🔧 Working with **Vue 3**, **Nuxt.js**, **Pinia**, **Vite**, and **TailwindCSS**
+- 🌱 Exploring the **React** ecosystem, especially **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🧩 Passionate about building dynamic, responsive web interfaces
+- 🌐 Portfolio: [sajibjsx.vercel.app](https://sajibjsx.vercel.app)
+
+---
+
+### 💬 Ask Me About
+- Vue / Nuxt
+- React / Next.js
+- REST APIs & Firebase
+- Frontend Architecture & State Management
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: **abdulazizsajib@gmail.com**
+- 🖥️ LinkedIn: [linkedin.com/in/abdulazizsajib](https://linkedin.com/in/abdulazizsajib)
+- 🌐 Website: [sajibjsx.vercel.app](https://sajibjsx.vercel.app)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,vue,nuxt,react,next,nodejs,express,mongodb,firebase,vite,pinia,figma,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulazizsajib&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizsajib&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizsajib" />
+</p>
