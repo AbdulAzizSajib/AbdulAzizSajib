@@ -13,7 +13,7 @@
 - 🔧 Working with **Vue 3**, **Nuxt.js**, **Pinia**, **Vite**, and **TailwindCSS**
 - 🌱 Exploring the **React** ecosystem, especially **MERN Stack (MongoDB, Express, React, Node.js)**
 - 🧩 Passionate about building dynamic, responsive web interfaces
-- 🌐 Portfolio: [sajibjsx.vercel.app](https://sajibjsx.vercel.app)
+- 🌐 Portfolio: [abdulazizsajib.vercel.app](https://abdulazizsajib.vercel.app/)
 
 ---
 
