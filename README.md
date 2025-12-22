@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdul Aziz Sajib</h1>
-<h3 align="center">Software Engineer (Web Appplication) | Vue.js & React</h3>
-<h3 align="center">Software Engineer @ ACI Limited | Full Stack Developer | Typescript | React.js & Vue.js | Express js | PostgreSQL</h3>
+<h3 align="center">Software Engineer @ ACI Limited | Full Stack Developer</h3>
+<h3 align="center">Typescript | React.js & Vue.js | Express js | PostgreSQL</h3>
 
 ---
 
