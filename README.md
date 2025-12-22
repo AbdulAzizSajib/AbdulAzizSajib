@@ -29,9 +29,9 @@ I specialize in developing **responsive, maintainable, and user-friendly interfa
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsajib&layout=compact" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizsajib" />
-</p>
+</p> -->
 
 ## Contact
 
