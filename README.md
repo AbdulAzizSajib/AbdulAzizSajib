@@ -16,6 +16,27 @@ I specialize in developing **responsive, maintainable, and user-friendly interfa
 - 🌐 Portfolio: https://abdulazizsajib.vercel.app  
 
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,vue,nuxt,react,next,nodejs,express,mongodb,firebase,vite,pinia,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,next,tailwind,nodejs,express,mongodb,postgres,firebase,git,github,figma,vite" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulazizsajib&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizsajib&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulazizsajib&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsajib&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizsajib" />
+</p>
+
 ## Contact
 
 - 📧 Email: abdulazizsajib@gmail.com  
