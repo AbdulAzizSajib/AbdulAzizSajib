@@ -25,8 +25,8 @@ I specialize in developing **responsive, maintainable, and user-friendly interfa
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulazizsajib&show_icons=true&theme=default" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulazizsajib&layout=compact" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulazizsajib&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsajib&layout=compact" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulazizsajib&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizsajib&layout=compact" /> -->
 </p>
 
 <!-- <p align="center">
