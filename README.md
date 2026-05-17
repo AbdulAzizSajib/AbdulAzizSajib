@@ -7,9 +7,16 @@
 ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██╔══██║ ███╔╝  ██║ ███╔╝  
 ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗██║  ██║███████╗██║███████╗
 ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝
+
+ ██████╗ █████╗      ██╗██╗██████╗ 
+██╔════╝██╔══██╗     ██║██║██╔══██╗
+╚█████╗ ███████║     ██║██║██████╔╝
+ ╚═══██╗██╔══██║██   ██║██║██╔══██╗
+██████╔╝██║  ██║╚█████╔╝██║██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝╚═════╝ 
 ```
 
-### **Software Engineer · Full Stack Developer · Open Source Enthusiast**
+### **Frontend-focused Full Stack Engineer · 2.3 Years Experience · Open Source Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://abdulazizsajib.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazizsajib)
@@ -24,19 +31,46 @@
 
 ```ts
 const sajib = {
-  name:     "Abdul Aziz Sajib",
-  role:     "Software Engineer @ ACI Limited",
-  focus:    ["Enterprise Web Apps", "Full Stack Development", "UI/UX"],
-  stack:    ["TypeScript", "React.js", "Vue.js", "Express.js", "PostgreSQL"],
-  degree:   "B.Sc. Computer Science & Engineering — AIUB",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  building: [
-    "HR & Performance Management Systems",
-    "CRM Platforms",
-    "E-Commerce Solutions",
+  name:       "Abdul Aziz Sajib",
+  role:       "Software Engineer @ ACI Limited",
+  experience: "2.3 years",
+  focus:      ["Frontend Engineering", "Full Stack Development", "Clean UI/UX"],
+  stack:      ["TypeScript", "React.js", "Next.js", "Vue.js", "Express.js", "PostgreSQL"],
+  degree:     "B.Sc. Computer Science & Engineering — AIUB (GPA: 3.27)",
+  location:   "Dhaka, Bangladesh 🇧🇩",
+  building:   [
+    "Onboarding & HR Management Systems",
+    "Performance Management Platforms (KPI/KRA)",
+    "CRM Systems & E-Commerce Solutions",
+    "Full-Stack Event Management Platforms",
   ],
-  motto:    "Ship clean. Think deeply. Build things that last.",
+  motto:      "Ship clean. Think deeply. Build things that last.",
 };
+```
+
+---
+
+## `> cat experience.log`
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  💼  Software Engineer                                              │
+│      ACI Limited  ·  Oct 2024 – Present                            │
+│                                                                     │
+│  ▸ Built responsive, accessible UIs with Vue.js & Tailwind CSS     │
+│  ▸ Integrated REST APIs to improve data flow & app performance      │
+│  ▸ Boosted user engagement by 25% via iterative UX improvements    │
+│  ▸ Collaborated with cross-functional teams on scalable solutions   │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│  💼  Frontend Web Developer                                         │
+│      Encoderbase  ·  Nov 2023 – Jun 2024                           │
+│                                                                     │
+│  ▸ Built & maintained CRM system interfaces                        │
+│  ▸ Integrated APIs for seamless data communication                 │
+│  ▸ Improved UI/UX consistency across multiple platforms            │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -56,25 +90,68 @@ const sajib = {
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+
+**State Management**
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Tools & Workflow**
+**DevOps & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
+
+---
+
+## `> ls ./projects`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Onboarding Management System</h3>
+      <p><code>Vue.js</code> · <code>Pinia</code> · <code>Tailwind CSS</code></p>
+      <p>Employee onboarding & HR data platform with dynamic multi-step forms, admin panel for roles & org structure, and automated ID card generation.</p>
+      <a href="https://apps.acibd.com/hr-form">🔗 Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Performance Management System</h3>
+      <p><code>Vue.js</code> · <code>Pinia</code> · <code>Tailwind CSS</code></p>
+      <p>KPI/KRA tracking system with dashboards, scorecards, multi-level approval workflows (Supervisor → HOD), and flexible monthly/quarterly/yearly cycles.</p>
+      <a href="https://app.acibd.com/pms-admin">🔗 Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💊 Ousadbazar Pharmacy E-Commerce</h3>
+      <p><code>Next.js</code> · <code>Zustand</code> · <code>Tailwind CSS</code></p>
+      <p>Online pharmacy with product search & filtering, secure checkout, REST API integration, and performance-optimized UX across all devices.</p>
+      <a href="http://ousadbazar.com">🔗 Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎉 Planora Event Management Platform</h3>
+      <p><code>Next.js</code> · <code>Express.js</code> · <code>Prisma</code> · <code>PostgreSQL</code></p>
+      <p>Full-stack platform with auth (email/Google/OTP), payment integration, real-time chat via Socket.IO, and dashboards for users & admins.</p>
+      <a href="https://planora-platform.vercel.app">🔗 Live</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,6 +168,22 @@ const sajib = {
 
 ---
 
+## `> cat education.md`
+
+```
+🎓  B.Sc. Computer Science & Engineering
+    American International University Bangladesh (AIUB)
+    GPA: 3.27  ·  Graduated 2024
+
+📘  Higher Secondary Certificate — Science
+    Bangladesh Navy College  ·  GPA: 4.83  ·  2019
+
+📗  Secondary School Certificate — Science
+    Siraj Mia Memorial Model School  ·  GPA: 5.00  ·  2017
+```
+
+---
+
 ## `> ping --me`
 
 <div align="center">
@@ -100,6 +193,7 @@ const sajib = {
 | 📧 Email | [abdulazizsajib@gmail.com](mailto:abdulazizsajib@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/abdulazizsajib](https://linkedin.com/in/abdulazizsajib) |
 | 🌐 Portfolio | [abdulazizsajib.vercel.app](https://abdulazizsajib.vercel.app) |
+| 📞 Phone | +880 1708-467621 |
 
 </div>
 
